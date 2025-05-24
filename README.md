@@ -22,3 +22,7 @@ My workly task-cli  (command-line interface) in terminal !
 3. (Optional) Move the binary to a directory in your PATH:
    ```terminal
    sudo mv task-cli /usr/local/bin/
+
+
+P.S its project for practice on roadmap: 
+https://roadmap.sh/projects/task-tracker
